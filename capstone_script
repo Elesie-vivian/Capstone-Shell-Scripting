@@ -1,0 +1,11 @@
+Bash Script for Generating a Multiplication Table
+
+This project will create a Bash Script that generates a multiplication table for a number entered by the user. 
+It will incorporate the practice of loops, handling user inputs with ‘read’ commands, and applying conditional logic in Bash Scripting.
+
+
+We use the vim text editor to develop our script then run it on Ubuntu terminal as shown below.
+
+The script output generates a multiplication table for a full table as
+entered by the user with an added feature of generating a full table
+for using List form loop as well as c-style loop.
